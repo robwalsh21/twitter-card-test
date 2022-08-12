@@ -23,7 +23,10 @@ export default function Home() {
           content="GoL2 a fun and interactive way to introduce new users and developers to smart contracts written in Cairo. With Starknet. Game of Life...',
     'twitter:card': 'summary_large_image"
         />
-        <meta name="og:image" content="/images/infiniteGame_4x.png" />
+        <meta
+          name="og:image"
+          content="https://drive.google.com/file/d/14gO6pNbzj0e85JG_tJWbZizYGBELGCBG/view"
+        />
         <meta name="og:image:type" content="image/jpeg" />
         <meta name="og:image:width" content="500" />
         <meta name="og:image:height" content="500" />
