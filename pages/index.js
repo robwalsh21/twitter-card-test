@@ -20,8 +20,7 @@ export default function Home() {
         />
         <meta
           name="twitter:description"
-          content="GoL2 a fun and interactive way to introduce new users and developers to smart contracts written in Cairo. With Starknet. Game of Life...',
-    'twitter:card': 'summary_large_image"
+          content="GoL2 a fun and interactive way to introduce new users and developers to smart contracts written in Cairo. With Starknet. Game of Life..."
         />
         <meta
           name="og:image"
