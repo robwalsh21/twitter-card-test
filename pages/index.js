@@ -27,9 +27,9 @@ export default function Home() {
           name="og:image"
           content="https://drive.google.com/file/d/14gO6pNbzj0e85JG_tJWbZizYGBELGCBG/view"
         />
-        <meta name="og:image:type" content="image/jpeg" />
-        <meta name="og:image:width" content="500" />
-        <meta name="og:image:height" content="500" />
+        <meta name="og:image:type" content="image/png" />
+        <meta name="og:image:width" content="2016" />
+        <meta name="og:image:height" content="1056" />
       </Head>
 
       <main className={styles.main}>
