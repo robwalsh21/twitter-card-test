@@ -28,6 +28,8 @@ export default function Home() {
           content="https://i.scdn.co/image/ab67616d0000b27361b28092adc0ad043a907e67"
         />
         <meta name="og:image:type" content="image/png" />
+        <meta name="og:image:width" content="500" />
+        <meta name="og:image:height" content="500" />
       </Head>
 
       <main className={styles.main}>
