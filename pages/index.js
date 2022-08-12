@@ -25,11 +25,11 @@ export default function Home() {
         />
         <meta
           name="og:image"
-          content="https://drive.google.com/file/d/14gO6pNbzj0e85JG_tJWbZizYGBELGCBG/view"
+          content="https://i.ibb.co/7Yy6wwY/gol.png"
         />
         <meta name="og:image:type" content="image/png" />
-        <meta name="og:image:width" content="2016" />
-        <meta name="og:image:height" content="1056" />
+        <meta name="og:image:width" content="504" />
+        <meta name="og:image:height" content="264" />
       </Head>
 
       <main className={styles.main}>
