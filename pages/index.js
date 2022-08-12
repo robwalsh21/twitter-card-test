@@ -25,7 +25,7 @@ export default function Home() {
         />
         <meta
           name="twitter:image"
-          content="./images/infiniteGame_4x.png"
+          content="/images/infiniteGame_4x.png"
         />
       </Head>
 
