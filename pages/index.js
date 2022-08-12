@@ -24,8 +24,9 @@ export default function Home() {
         />
         <meta
           name="og:image"
-          content="https://i.ibb.co/7Yy6wwY/gol.png"
+          content="https://i.ibb.co/xmCjPvc/gol2.png"
         />
+
         <meta name="og:image:type" content="image/png" />
         <meta name="og:image:width" content="504" />
         <meta name="og:image:height" content="264" />
